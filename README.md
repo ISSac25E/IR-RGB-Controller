@@ -1,4 +1,4 @@
-# IR-RGB-Controller - Amir Gorkovchenko (July - August 2023)
+# IR-RGB-Controller - Amir Gorkovchenko (Late 2023)
 
 There are these project light boxes with paper and creative designs in front.
 When the light shines from the back it creates a very nice effect.
